@@ -1,6 +1,4 @@
-I think you meant **delay discounting** (sometimes written as "CDelay Discounting" in certain contexts). It refers to how people or systems devalue rewards as the delay to receiving them increases. This is a core concept in behavioral economics, psychology, and decision-making theories.
-
-### **Key Idea:**
+Key Idea:**
 People tend to prefer smaller, immediate rewards over larger, delayed rewards, even if waiting would result in a higher payoff.
 
 ### **Example:**
